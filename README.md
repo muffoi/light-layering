@@ -1,5 +1,5 @@
 # Light layering
- A showcase of how red, green and blue light look, and how they look when combined together.
+ A showcase of how red, green and blue light looks, and how they look when combined together.
 
  Watch the full showcase animation on [my website](https://muffoi.github.io/light-layering).
 
